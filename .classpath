@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/snewm/Desktop/Serene Stuff/server 1.13/spigot-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/snewm/Desktop/Serene Stuff/server 1.13/plugins/Vault-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/snewm/Desktop/Serene Stuff/Sams test server/plugins/Jobs4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/snewm/Desktop/Serene Stuff/Sams test server/plugins/mcMMO.jar"/>
+	<classpathentry kind="lib" path="C:/Users/snewm/Desktop/Serene Stuff/Sams test server/plugins/PlaceholderAPI-2.9.2 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

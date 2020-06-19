@@ -1,0 +1,11 @@
+name: SamGuilds
+main: me.Sam.Guilds.Guilds
+version: 1.0
+description: sams guild plugin wow
+api-version: 1.13
+depend: [PlaceholderAPI, mcMMO, Vault, CMI]
+commands:
+  guild:
+  gchat:
+  g:
+  guildspy:

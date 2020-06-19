@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SamGuilds:jar">
+    <output-path>$USER_HOME$/Desktop/Serene Stuff/Plugins i made</output-path>
+    <root id="archive" name="SamGuilds.jar">
+      <element id="module-output" name="SamGuilds" />
+    </root>
+  </artifact>
+</component>
